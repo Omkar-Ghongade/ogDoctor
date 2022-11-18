@@ -12,25 +12,24 @@
 
 # Key-Features
 
-      1. To get the Patient connected with the Doctor relavent to Symptons entered by you.
+      1. Disease checker, where AI detects the disease by the images of symptoms.
       
-      2. Patient will be able to see the doctos profile
+      2. AI smartbot, where patient can chat with AI regarding their symptoms.
 
-      3. Chat feature between the Doctor and Patient for Discussion.
+      3. Blood Report Analyser, where the patient can get a clear summary about this blood.
 
-      4. Keep a track of all the Prescriptions and Previous consultations in digital format.
+      4. Medicine Alert, where the program alerts the user to take his medicines on time.
  
       5. Book slots for the consultation on the basis of both doctos and patients availability.
 
 <h2> Modules </h2>
 
 - Welcome Page
-- Login / Sign-Up Page
-- Home Page
-   - Book an Appointment
-   - Prescriptions
-   - Previous Consultations
-- Disease Checker
-   - Entering Symptons
-   - Display Diseases
+- Features of MEDICARE
+- MEDICARE applications in smartwatch
+- Services
+   - Book an appointment
+   - Prescription details
+   - chat with AI
+   - previous history
 
