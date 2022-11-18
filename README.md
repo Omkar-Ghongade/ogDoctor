@@ -7,7 +7,7 @@
 <b>It is a Doctor Consultation & Appointment Booking Application which helps you to get connected with the doctors in your nearby area based on the basic symptons and diseases. </b>
 
 
-# Overview 
+<!-- # Overview  -->
 
 
 # Key-Features
