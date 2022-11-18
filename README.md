@@ -22,3 +22,15 @@
  
       5. Book slots for the consultation on the basis of both doctos and patients availability.
 
+<h2> Modules </h2>
+
+- Welcome Page
+- Login / Sign-Up Page
+- Home Page
+   - Book an Appointment
+   - Prescriptions
+   - Previous Consultations
+- Disease Checker
+   - Entering Symptons
+   - Display Diseases
+
