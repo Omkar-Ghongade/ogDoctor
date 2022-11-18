@@ -4,7 +4,7 @@
 
 # What's MediCare ?
 
-<b>It is a Doctor Consultation & Appointment Booking Application which helps you to get connected with the doctors in your nearby area based on the basic symptons and diseases. </b>
+<b>It is a Doctor Consultation & Appointment Booking Application which helps you to get connected with the doctors in your nearby area based on the basis of symptons and diseases. </b>
 
 
 <!-- # Overview  -->
