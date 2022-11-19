@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>CHATBOT</title>
+        <link rel="stylesheet" href="/static/index.css">
+    </head>
+    <body>
+        <section>
+            <div class="logo">
+                <img src="/static/images/logo.png" width="40%">
+                <h2>MEDI-CARE</h2>
+            </div>
+        <div id="button" class="scroll-down">
+            <img src="/static/images/arrow.png">
+        </div>
+        <div class="scroll-down-p">SCROLL DOWN</div>
+        <div class="dropdown" data-dropdown>
+            <div class="menu-btn" data-dropdown-button>
+                <div class="menu-btn_burger" ></div></div>
+            <div class="dropdown-menu">
+                <ul>
+                    <li><b>01</b><a href="#services-jump"> ABOUT US</a></li>
+                    <li><b>02</b><a href="#"> DISEASE CHECKER</a></li>
+                    <li><b>03</b><a href="#"> BLOOD REPORT ANALYSER</a></li>
+                    <li><b>04</b><a href="#"> ARRANGEMENT OF MEDICINES</a></li>
+                    <li><b>05</b><a href="#services-jump"> AI CHATBOT</a></li>
+                    <li><b>06</b><a href="#"> MEDI-CARE</a></li>
+                    <li><b>07</b><a href="#"> CONTACT US</a></li>
+                </ul>
+            </div>
+    </div>
+    <div class="intro-year">
+        <h1>2022</h1>
+    </div>
+    <div class="intro">
+    <div id="intro-holder">
+        <div>
+            <h1>OG DOCTOR</h1>
+        </div>
+    </div>
+    <div id="intro-holder2">
+        <h1>MEDI-CARE</h1>
+    </div>
+</div>
+</section>
+<div class="mid-part">
+    <h1>Why MEDICARE is unique from other applications?</h1>
+</div>
+<div class="mid-part2">
+    <div class="left-mid">
+        <h3><em>1. </em>DISEASE CHECKER</h3>
+        <h3><em>2. </em>AI SMARTBOT</h3>
+        <h3><em>3. </em> BLOOD REPORT ANALYSER</h3>
+        <h3><em>4. </em>MEDICINE ALERT</h3>
+    </div>
+    <div class="right-mid">
+        <p>In our Application, We provide users to upload images of their symptoms where our AI detects the disease.</p><br>
+        <p>the AI smartbot can talk to the patients regarding their problems and give them vital solutions.</p><br>
+        <p>The Report Analyser studies the report of the patients and gives a proper summary of their health condition.</p><br>
+        <p>The medicine alert feature gives reminder to the patient when it is time to take his medicines.</p><br>
+    </div>
+</div>
+<div class="img-left">
+    <img src="/static/images/watch.webp" width="35%">
+</div>
+<div class="elon-right">
+    <h1 class="elon2">"MEDICARE IN SMARTWATCH"</h1>
+    <p>We are planning on a future update where MEDICARE will run on smartwatches that monitors the health of the patient time to time and executes the emergency program if patients vitals are not normal.</p>
+</div>
+<div id="services-jump">
+<div class="services">
+    <h1>Services we provide in MEDICARE</h1>
+</div>
+
+<div class="services-list">
+    <h2><a href="#" >1. Book An Appointment</a></h2>
+    <h2><a href="#" >2. Prescription Details</a></h2>
+    <h2><a href="{{ url_for('index_func') }}" >3. Chat With AI</a></h2>
+    <h2><a href="#" >4. Previous History</a></h2>
+</div>
+<div class="service-right">
+    <p class="right1">You can book an appointment with your doctor from your home.</p>
+    <p class="right2">Check your Prescription details here.</p>
+    <p class="right3">Talk with our AI and get solutions to your Symptoms.</p>
+    <p class="right4">Check your recent history here.</p>
+</div>
+
+</div>
+
+<div class="end-part">
+    <p>MEDICARE is a Doctor Consultation & Appointment Booking Application which helps you to get connected with the doctors in your nearby area based on the basis of symptons and diseases.</p>
+</div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+        <script src="/static/index.js"></script>
+    </body>
+</html>

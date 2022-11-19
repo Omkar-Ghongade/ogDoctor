@@ -1,0 +1,75 @@
+html{
+    background-color: black;
+}
+body{
+    overflow-x: hidden;
+}
+.chat-area h1{
+    background: -webkit-linear-gradient(90deg,#b871ce,  #2779a7, #49c5b6);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 80px;
+    font-family: 'Headingnow',sans-serif;
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+.chat-area p{
+    font-family: 'helvetica',sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: 70px;
+    text-align: center;
+    color: white;
+}
+
+.ques{
+    text-align: center;
+    font-size: 20px;
+    font-family: 'Headingnow',sans-serif;
+    color: white;
+    position: relative;
+    top: 100px;
+}
+
+.input{
+    align-items: center;
+    position: relative;
+    left: 670px;
+    top: 120px;
+    border-radius: 30%;
+    font-size: 30px;
+    padding: 20px;
+    height: 50px;
+    width: 100px;
+
+}
+
+#userbox{
+    height: 60px;
+    width: 500px;
+}
+
+.text-area{
+    width: 700px;
+    height: 700px;
+    background-color: grey;
+    position: relative;
+    top: 100px;
+    left: 580px;
+    border-radius: 20%;
+
+}
+.text-area p{
+    color: white;
+    position: relative;
+    top: 300px;
+    left: 300px;
+    font-size: 20px;
+    background-color: black;
+    border-radius: 10%;
+    height: 30px;
+    width: 50px;
+    padding: 10px;
+
+}
