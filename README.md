@@ -33,3 +33,13 @@
    - chat with AI
    - previous history
 
+## Overview
+<img src="ss2.jpg">
+<img src="ss1.jpg">
+
+## Technologies used
+- HTML
+- CSS
+- JAVASCRIPT
+- FLASK
+- PYTHON
